@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jctaylorjr
-- Undergraduate student in my junior year at the University of South Florida
+- Undergraduate student in my senior year at the University of South Florida studying Computer Science
 - 📫 How to reach me: jctaylor@usf.edu
